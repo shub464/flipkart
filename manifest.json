@@ -1,0 +1,11 @@
+{
+    "name": "sflipkart",
+    "start_url": "/flipkart/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "assets/i",
+            "sizes": ""
+        }
+    ]
+}
