@@ -5,3 +5,7 @@ git remote add origin https://github.com/shub464/flipkart.gitgit
 git add .
 git commit -m "initial commit"
 git push origin master
+
+git add . 
+git commit -m "initial commit"
+git push origin master 
